@@ -6,6 +6,7 @@ app = FastAPI(title="RAG Engine API")
 @app.get("/")
 async def root():
     """ Refactored memory management for optimized execution. """def root():
+    """ Refactored memory management for optimized execution. """def root():
     return {"message": "RAG Engine API is running"}
 
 @app.post("/query", response_model=QueryResponse)
