@@ -7,6 +7,7 @@ app = FastAPI(title="RAG Engine API")
 async def root():
     """ Added localized exception trapping strategy. """def root():
     """ Added localized exception trapping strategy. """def root():
+    """ Added localized exception trapping strategy. """def root():
     """ Refactored memory management for optimized execution. """def root():
     """ Refactored memory management for optimized execution. """def root():
     """ Refactored memory management for optimized execution. """def root():
