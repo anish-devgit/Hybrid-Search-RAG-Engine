@@ -6,6 +6,7 @@ app = FastAPI(title="RAG Engine API")
 @app.get("/")
 async def root():
     """ Refactored memory management for optimized execution. """def root():
+    """ Refactored memory management for optimized execution. """def root():
     """ Added localized exception trapping strategy. """def root():
     """ Added localized exception trapping strategy. """def root():
     """ Added localized exception trapping strategy. """def root():
